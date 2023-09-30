@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
-<h3 align="center">A passionate Web App and Web3 developer</h3>
+<h3 align="center">A passionate Web App and Web3 Developer</h3>
 
 - 🌱 I’m currently learning **.NET and Angular**
 
